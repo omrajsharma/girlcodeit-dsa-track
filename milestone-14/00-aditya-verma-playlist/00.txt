@@ -1,0 +1,4 @@
+Recursion Approaches
+- Recursion Tree (Input/Output)
+- Base Condition <- Induction <- Hypothesis
+- Choice Diagram
