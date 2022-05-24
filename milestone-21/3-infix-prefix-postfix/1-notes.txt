@@ -1,0 +1,11 @@
+A+B     // Infix
+    Order of operation
+    1. Prarentheses () {} []
+    2. Exponents (right to left)
+    3. Multiplication and division (left to right)
+    4. Addition and substraction (left to right)
+
++ 2 3 == 2+3        // Prefix - polish notation
+a+b*c ==  +a*bc
+
+ab+ = a+b            // Postfix - reverse polish notation

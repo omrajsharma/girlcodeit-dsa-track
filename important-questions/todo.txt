@@ -1,2 +1,5 @@
 quick sort, merge sort recursively (milestone 16)
 milestone 17 - todo (full)
+milestone 18 - doubly linkedlist
+milestone 19 - level 2 todo
+milestone 20 - todo
